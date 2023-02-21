@@ -1,9 +1,5 @@
-ForkID,Brand
-40011,"Caterpillar's forklifts"
-40002,Clark's
-40016,Crown 451698"
-40018,Caterpillar
-40019,Hertz
-40022,KION group
-40025,Hangcha Group
-40026,Komatsu
+Forkid, Brand, Type, Useable, Enter date
+50000,Clark's,Pallet jacks,No,30/10/2022
+50001,Komatsu,IC forklifts,yes,2023/02/03
+50012,KION group,order pickers,no,2023/02/03
+50002,Caterpiller,reach trucks,yes,2023/02/03
