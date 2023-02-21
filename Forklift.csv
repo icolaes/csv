@@ -1,5 +1,5 @@
-Forkid, Brand, Type, Useable, Enter date
-50000,Clark's,Pallet jacks,No,30/10/2022
-50001,Komatsu,IC forklifts,yes,2023/02/03
-50012,KION group,order pickers,no,2023/02/03
-50002,Caterpiller,reach trucks,yes,2023/02/03
+FORKID, Brand
+50000,Clarks
+50001,Komatsu
+50012,KION group
+50002,Caterpiller
