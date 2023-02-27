@@ -1,0 +1,10 @@
+FORKID,BRAND,ENTER DATE,ACCESSOIRES,TYPE
+50200,Clark,30/10/2022,'Cup holder, Cover',Pallet jacks
+50201,Clark,30/10/2022,"Cup holder, Cover",Pallet jacks
+50202,Clark,30/10/2022,Cup holder, Cover,Pallet jacks
+"50203","Clark","30/10/2022","Cup holder, Cover","Pallet jacks"
+'50204','Clark','30/10/2022','Cup holder, Cover','Pallet jacks'
+'50205','Clark','30/10/2022','Cup holder', 'Cover','Pallet jacks'
+"50206","Clark","30/10/2022","Cup holder","Cover","Pallet jacks"
+"50207","Clark","30/10/2022","'Cup holder','Cover'","Pallet jacks"
+50208,Clark,30/10/2022,"[""Cup holder""],[""Cover""]",Pallet jacks
