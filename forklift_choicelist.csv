@@ -21,3 +21,7 @@ FORKID,BRAND,ENTER DATE,ACCESSOIRES,TYPE
 50219,Clark,30/12/2022,"Item 1 Item 2 Item 3","Pallet jacks"
 50220,Clark,30/12/2022,'Item 1 Item 2 Item 3','Pallet jacks'
 50221,Clark,30/12/2022,"'Item 1' 'Item 2' 'Item 3'",'Pallet jacks'
+50222,"Hyster Hale",30/10/2022,"'Cup holder', 'Cover'","'Pallet jacks'"
+50223,"Hyster Hale",30/10/2022,"Cup holder Cover","Pallet jacks"
+50224,"Hyster Hale",30/10/2022,"'Cup holder Cover'","Pallet jacks"
+50225,"Hyster Hale",30/10/2022,""Cup holder" "Cover"","Pallet jacks"
