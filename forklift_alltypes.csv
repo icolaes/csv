@@ -1,0 +1,29 @@
+FORKID,BRAND,ENTER DATE,CHOICELIST_MULTI,CHOICELIST,FLAG
+60200,Clark,30/10/2022,'Cup holder, Cover',Pallet jacks,Yes
+60201,Clark,30/10/2022,"Cup holder, Cover",Pallet jacks,No
+60202,Clark,30/10/2022,Cup holder, Cover,Pallet jacks,No
+"60203","Clark","30/10/2022","Cup holder, Cover","Pallet jacks","No"
+'60204','Clark','30/10/2022','Cup holder, Cover','Pallet jacks','Yes'
+'60205','Clark','30/10/2022','Cup holder', 'Cover','Pallet jacks','Yes'
+"60206","Clark","30/10/2022","Cup holder","Cover","Pallet jacks","Yes"
+"60207","Clark","30/10/2022","'Cup holder','Cover'","Pallet jacks","Yes"
+60208,Clark,30/10/2022,"[""Cup holder""],[""Cover""]",Pallet jacks,Yes
+60209,Hyster Hale,30/10/2022,'Cup holder, Cover',Pallet jacks,Yes
+60210,'Hyster Hale','30/10/2022','Cup holder, Cover','Pallet jacks','Yes'
+60211,"Hyster Hale",30/10/2022,"Cup holder, Cover","Pallet jacks","Yes"
+60212,"Hyster Hale",30/10/2022,"'Cup holder', 'Cover'","'Pallet jacks'","'Yes'"
+60213,Clark forklift,Yes
+60214,"Clark forklift","Yes"
+60215,'Clark forklift','Yes'
+60216,[Clark forklift],Yes
+60217,Clark,30/12/2022,Item1 Item2 Item3, Pallet jacks,Yes
+60218,Clark,30/12/2022,Item 1 Item 2 Item 3, Pallet jacks,Yes
+60219,Clark,30/12/2022,"Item 1 Item 2 Item 3","Pallet jacks","Yes"
+60220,Clark,30/12/2022,'Item 1 Item 2 Item 3','Pallet jacks','Yes'
+60221,Clark,30/12/2022,"'Item 1' 'Item 2' 'Item 3'",'Pallet jacks','Yes'
+60222,"Hyster Hale",30/10/2022,"'Cup holder', 'Cover'","'Pallet jacks'","'Yes'"
+60223,"Hyster Hale",30/10/2022,"Cup holder Cover","Pallet jacks","Yes"
+60224,"Hyster Hale",30/10/2022,"'Cup holder Cover'","Pallet jacks","Yes"
+60225,"Hyster Hale",30/10/2022,""Cup holder" "Cover"","Pallet jacks","Yes"
+60226,"Hyster Hale",30/10/2022,"'Cup holder' 'Cover'","Pallet jacks","Yes"
+60227,Hyster Hale,30/10/2022,Cup holder;Cover,Pallet jacks,Yes
