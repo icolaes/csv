@@ -12,10 +12,10 @@ FORKID,BRAND,ENTER DATE,CHOICELIST_MULTI,CHOICELIST,FLAG
 60210,'Hyster Hale','30/10/2022','Cup holder, Cover','Pallet jacks','Yes'
 60211,"Hyster Hale",30/10/2022,"Cup holder, Cover","Pallet jacks","Yes"
 60212,"Hyster Hale",30/10/2022,"'Cup holder', 'Cover'","'Pallet jacks'","'Yes'"
-60213,Clark forklift,Yes
-60214,"Clark forklift","Yes"
-60215,'Clark forklift','Yes'
-60216,[Clark forklift],Yes
+60213,Clark forklift
+60214,"Clark forklift"
+60215,'Clark forklift'
+60216,[Clark forklift]
 60217,Clark,30/12/2022,Item1 Item2 Item3, Pallet jacks,Yes
 60218,Clark,30/12/2022,Item 1 Item 2 Item 3, Pallet jacks,Yes
 60219,Clark,30/12/2022,"Item 1 Item 2 Item 3","Pallet jacks","Yes"
