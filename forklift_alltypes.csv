@@ -4,3 +4,4 @@ FORKID,BRAND,ENTER DATE,CHOICELIST_MULTI,CHOICELIST,FLAG
 70003,Hertz,2022-09-11,"item 1, item 3","pallet jacks",No
 70004,toyota,2023-02-28,"item 1, item 2, item 3, item 4","ic forklift",Yes
 70005,Wiener,2023-02-28,"item 1, item 2, item 3, item 4",ic forklift,No
+70006,Hyster,2023-02-28,"item 1, item 2, item 3, item 4",ic forklift,yes
