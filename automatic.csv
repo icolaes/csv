@@ -1,0 +1,5 @@
+FORKID,BRAND,ENTER DATE,CHOICELIST_MULTI,CHOICELIST,FLAG
+80001,Toyota,2023-02-28,"item 1, item 2, item 3, item 4","ic forklift",Yes
+80002,Hertz,2023-02-28,"item 1, item 2, item 3, item 4",IC forklift,No
+80003,Hyster-Yale,2023-02-28,"item 1, item 2, item 3, item 4",IC forklift,No
+80004,Wiener,2023-02-28,"item 1, item 2, item 3, item 4",IC forklift,No
