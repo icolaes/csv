@@ -1,0 +1,27 @@
+CSV_ID,CSV_NAME,CSV_DATE,CSV_FLAG,CSV_CHOICELIST,CSV_CHOICELIST_MULTI
+321001,WRONG DATE FORMAT,01-10-2019,Yes,item 1,"multi 10"
+321002,WRONG DATE FORMAT,05-31-2019,Yes,item 1,"multi 10"
+321003,WRONG DATE FORMAT,31-05-2019,Yes,item 1,"multi 10"
+321004,WRONG DATE FORMAT,2019-31-05,Yes,item 1,"multi 10"
+321005,SINGLE QUOTE ' in between ',2019-05-31,Yes,item 1,"multi 10"
+321006,'SINGLE QUOTE start and finish',2019-05-31,Yes,item 1,"multi 10"
+321007,DOUBLE QUOTE " in between ",2019-05-31,Yes,item 1,"multi 10"
+321008,"DOUBLE QUOTE start and finish",2019-05-31,Yes,item 1,"multi 10"
+321009,Rare teken slash /,2019-05-31,Yes,item 1,"multi 10"
+321010,Text met dash -,2019-05-31,Yes,item 1,"multi 10"
+321011,Text met franse tekens é è ç ^,2019-05-31,Yes,item 1,"multi 10"
+321012,Text met euroteken €,2019-05-31,Yes,item 1,"multi 10"
+321013,Text met räre teken,2019-05-31,Yes,item 1,"multi 10"
+321014,Text met senor teken ~,2019-05-31,Yes,item 1,"multi 10"
+321015,Text met vraagteken ?,2019-05-31,Yes,item 1,"multi 10"
+321016,Text met rare tekens ´ ` µ $ ] [ £,2019-05-31,Yes,item 1,"multi 10"
+321017,Text met rare tekens { } à ^§ # @ & |,2019-05-31,Yes,item 1,"multi 10"
+321018,Text met rare tekens < > \,2019-05-31,Yes,item 1,"multi 10"
+321019,Text met rare tekens ² ³ °,2019-05-31,Yes,item 1,"multi 10"
+321020,Text met (hekje),2019-05-31,Yes,item 1,"multi 10"
+321021,Dit veld is ingevuld met enorm veel karakters eens zien of dit allemaal geimporteerd wordt in het systeem platform een komma mag ik zeker niet zetten of zal dit zien als een ander veld dus typ ik het maar voluit zodat het niet door de komma geblokkeerd wordt we zullen zien wat hij hiermee doet,2019-05-31,Yes,item 1,"multi 10"
+321022,Text met (hekje),2019-05-31,Yes,item 1,"multi 10"
+321024,CLARK no other fields
+CLARK,id number is text will it be imported,2019-01-10,Yes,item 1,"multi 10"
+000000
+321025,CLARK
