@@ -1,0 +1,11 @@
+CSV_ID,CSV_NAME,CSV_DATE,CSV_FLAG,CSV_CHOICELIST,CSV_CHOICELIST_MULTI
+723011,CLARK FORKLIFT 001,2019-01-10,Yes,item 1,"multi 1,multi 3,multi 5,multi 7,multi 9"
+723012,CLARK FORKLIFT 002,2019-02-10,No,item 2,"multi 2,multi 4,multi 6,multi 8,multi 10"
+723013,CLARK FORKLIFT 003,2019-03-10,Yes,item 3,"multi 1,multi 3,multi 5,multi 7,multi 9"
+723014,CLARK FORKLIFT 004,2019-04-10,No,item 4,"multi 2,multi 4,multi 6,multi 8,multi 10"
+723015,CLARK FORKLIFT 005,2019-05-10,Yes,item 5,"multi 1,multi 2,multi 3"
+723016,CLARK FORKLIFT 006,2019-06-10,No,item 6,"multi 4,multi 5,multi 6"
+723017,CLARK FORKLIFT 007,2019-07-10,Yes,item 7,"multi 7,multi 8,multi 9"
+723018,CLARK FORKLIFT 008,2019-08-10,No,item 8,"multi 10,multi 1,multi 2"
+723019,CLARK FORKLIFT 009,2019-09-10,Yes,item 9,"multi 3,multi 4,multi 5"
+723020,CLARK FORKLIFT 010,2019-10-10,No,item 10,"multi 6,multi 7,multi 8"
