@@ -24,7 +24,7 @@ CSV_ID,CSV_NAME,CSV_DATE,CSV_FLAG,CSV_CHOICELIST,CSV_CHOICELIST_MULTI
 321024,CLARK no other fields
 CLARK,id number is text will it be imported,2019-01-10,Yes,item 1,"multi 10"
 000000
-321025,CLARK UPDATE,2023-10-10
+321025,CLARK UPDATE,2023-10-11,Yes,item 7,"multi 10, multi 9, multi 8, multi 7"
 321026,DATE FORMAT not full year DD-MM-YY,01-10-19,Yes,item 1,"multi 10"
 321027,DATE FORMAT not full year MM-DD-YY,05-31-19,Yes,item 1,"multi 10"
 321028,DATE FORMAT not full year MM-DD-YY,Jan 15,2019,Yes,item 1,"multi 10"
