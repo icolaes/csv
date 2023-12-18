@@ -2,3 +2,4 @@ CSV_ID,CSV_NAME,CSV_DATE,CSV_FLAG,CSV_CHOICELIST,CSV_CHOICELIST_MULTI
 321001,CLARK FORKLIFT 001,30-10-2019,Yes,item 1,"multi 1,multi 3,multi 5,multi 7,multi 9"
 TEXT001,CLARK FORKLIFT 002,2019-02-10,No,item 2,"multi 2,multi 4,multi 6,multi 8,multi 10"
 321003,CLARK FORKLIFT 003,10-30-2023,Yes,item 3,"multi 1,multi 3,multi 5,multi 7,multi 9"
+921002,IC FORKLIFT 004,2023-12-10,Yes,item 3,"multi 1,multi 3,multi 5,multi 7,multi 9"
