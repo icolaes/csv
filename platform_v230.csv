@@ -118,7 +118,7 @@ CSV_ID,CSV_NAME,CSV_DATE,CSV_FLAG,CSV_CHOICELIST,CSV_CHOICELIST_MULTI
 223117,FORK PLATFORM 2.3.0 - 117,2024-01-07,Yes,item 7,"multi 2,multi 4,multi 6,multi 8,multi 10"
 223118,FORK PLATFORM 2.3.0 - 118,2024-01-08,Yes,item 8,"multi 1,multi 2,multi 3"
 223119,FORK PLATFORM 2.3.0 - 119,2024-01-06,No,item 9,"multi 1,multi 3,multi 5"
-223120,FORK PLATFORM 2.3.0 - 120,2024-01-07,Yes,item 10,"multi 2,multi 4,multi 6,multi 8,multi 10"
+223120,FORK PLATFORM 2.3.0 - 120,2024-01-07,false,item 10,"multi 2,multi 4,multi 6,multi 8,multi 10"
 223121,FORK PLATFORM 2.3.0 - 121,2024-01-08,Yes,item 1,"multi 1,multi 2,multi 3"
 223122,FORK PLATFORM 2.3.0 - 122,2024-01-06,No,item 2,"multi 1,multi 3,multi 5"
 223123,FORK PLATFORM 2.3.0 - 123,2024-01-07,Yes,item 3,"multi 2,multi 4,multi 6,multi 8,multi 10"
