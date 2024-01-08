@@ -1,0 +1,10 @@
+CSV_ID,CSV_NAME,CSV_DATE,CSV_FLAG,CSV_CHOICELIST,CSV_CHOICELIST_MULTI
+3210010,IC FORKLIFT 001,2023-12-10,Yes,item 3,"multi 1,multi 3,multi 5,multi 7,multi 9"
+3210020,IC FORKLIFT 002,10-12-2023,No,item 3,"multi 1,multi 3,multi 5,multi 7,multi 9"
+3210030,IC FORKLIFT 003,2023/12/10,no,item 5,"multi 3,multi 9"
+3210040,IC FORKLIFT 004,10-12-2023,yes,item 3,"multi 1,multi 3,multi 5,multi 7,multi 9"
+3210150,IC FORKLIFT 005,2023.12.10,Yes,item 3,"multi 1,multi 3,multi 5,multi 7,multi 9"
+3210160,IC FORKLIFT 006,23-12-10,Yes,item 3,"multi 1,multi 3,multi 5,multi 7,multi 9"
+3210170,IC FORKLIFT 007,23-10-12,Yes,item 3,"multi 1,multi 3,multi 5,multi 7,multi 9"
+3210180,IC FORKLIFT 008,10-12-23,Yes,item 3,"multi 1,multi 3,multi 5,multi 7,multi 9"
+3210190,IC FORKLIFT 009,10/12/23,Yes,item 3,"multi 1,multi 3,multi 5,multi 7,multi 9"
