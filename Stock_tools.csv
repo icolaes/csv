@@ -1,0 +1,4 @@
+﻿STOCK_ID;STOCK_BRAND;STOCK_TYPE;STOCK_QUANTITY;STOCK_AVAILABLE;STOCK_UPDATE_DATE;STOCK_USED_IN;STOCK_COMMENT
+30001;DeWalt;Drill,Clamp;2500;Yes;2024-04-21;Assembly,Machining,Quality;
+30002;Bosch;Bolt;0;No;2024-04-20;Quality;this is a comment
+30003;Black & Decker;Hammer, Nut;5410;;2024-04-22;Entering,Quality,Assembly;
