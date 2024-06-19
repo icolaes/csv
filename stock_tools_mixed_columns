@@ -1,11 +1,4 @@
 STOCK_BRAND,STOCK_TYPE,STOCK_ID,STOCK_AVAILABLE,STOCK_UPDATE_DATE,STOCK_USED_IN,STOCK_COMMENT,STOCK_QUANTITY
-Bosch,"Bolt,Drill",60004,Yes,2024-06-19,"Entering",,500
-Stanley,"Saw",60005,Yes,2024-06-19,"Entering",,500
-Stanley,"Saw",60006,Yes,2024-06-19,"Entering","typos underneath",500
-Stanley,"Saw",60007,Yes,2024-06-19,"Entering",- Crown,500
-Stanley,"Saw",60008,Yes,2024-06-19,"Entering",Crown 45619,500
-Stanley,"Saw",60009,Yes,2024-06-19,"Entering",Clark's,500
 Stanley,"Saw",60010,Yes,2024-06-19,"Entering",Strange characters &é@ó$µ]ûçà,500
 Stanley,"Saw",60011,Yes,2024-06-19,"Entering",  Tab before,500
 Stanley,"Saw",60012,Yes,2024-06-19,"Entering",Caterpillar's forklifts,500
-
