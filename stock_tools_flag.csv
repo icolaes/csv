@@ -1,0 +1,8 @@
+STOCK_ID,STOCK_BRAND,STOCK_TYPE,STOCK_QUANTITY,STOCK_AVAILABLE,STOCK_UPDATE_DATE,STOCK_USED_IN,STOCK_COMMENT
+80000,Bosch,"Hammer,Bolt,Drill",200,Yes,2024-06-19,"Quality,Assembly","flag value Yes"
+80001,Bosch,"Hammer,Bolt,Drill",400,yes,2024-06-19,"Quality,Assembly","flag value yes"
+80002,Bosch,"Hammer,Bolt,Drill",0,true,2024-06-19,"Quality,Assembly","flag value true"
+80003,Bosch,"Hammer,Bolt,Drill",0,No,2024-06-19,"Quality,Assembly","flag value No"
+80004,Bosch,"Hammer,Bolt,Drill",0,no,2024-06-19,"Quality,Assembly","flag value no"
+80005,Bosch,"Hammer,Bolt,Drill",0,false,2024-06-19,"Quality,Assembly","flag value false"
+80006,Bosch,"Hammer,Bolt,Drill",0,false,2024-06-19,"Quality,Assembly","flag value empty = no"
