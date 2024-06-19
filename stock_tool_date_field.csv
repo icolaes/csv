@@ -1,4 +1,8 @@
-STOCK_BRAND,STOCK_TYPE,STOCK_ID,STOCK_AVAILABLE,STOCK_UPDATE_DATE,STOCK_USED_IN,STOCK_COMMENT,STOCK_QUANTITY
-Stanley,"Saw",60010,Yes,2024-06-19,"Entering",Strange characters &é@ó$µ]ûçà,500
-Stanley,"Saw",60011,Yes,2024-06-19,"Entering",  Tab before,500
-Stanley,"Saw",60012,Yes,2024-06-19,"Entering",Caterpillar's forklifts,500
+STOCK_ID,STOCK_BRAND,STOCK_TYPE,STOCK_QUANTITY,STOCK_AVAILABLE,STOCK_UPDATE_DATE,STOCK_USED_IN,STOCK_COMMENT
+70000,Bosch,"Hammer,Bolt,Drill",200,Yes,2024-06-19,"Quality,Assembly","YYYY-MM-DD"
+70001,Bosch,"Hammer,Bolt,Drill",200,Yes,2024-06-19 17:30:00,"Quality,Assembly","YYYY-MM-DD HH:MM:SS"
+70002,Bosch,"Nut",400,Yes,19/06/2024,"Quality,Assembly","DD/MM/YYYY"
+70003,Bosch,"Nut",0,No,19-06-2024,"Quality,Assembly","DD-MM-YYYY"
+70004,Bosch,"Nut",0,No,6-19-24,"Quality,Assembly","M-D-YY"
+70005,Bosch,"Hammer,Bolt,Drill",200,Yes,"June 19,2024","Quality,Assembly","June 19, 2024 between quotes"
+70006,Bosch,"Hammer,Bolt,Drill",200,Yes,June 19,2024,"Quality,Assembly","June 19, 2024, no quotes"
