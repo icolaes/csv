@@ -1,7 +1,0 @@
-﻿STOCK_ID;STOCK_BRAND;STOCK_TYPE;STOCK_QUANTITY;STOCK_AVAILABLE;STOCK_UPDATE_DATE;STOCK_USED_IN;STOCK_COMMENT
-50001;DeWalt;Drill,Clamp;2500;Yes;2024-04-21;Assembly,Machining,Quality;
-50002;Bosch;Bolt;200;Yes;;Quality;this is a comment
-50003;Black & Decker;Hammer,Nut;5410;;2024-04-22;Entering,Quality,Assembly;
-50004;Black & Decker;Hammer;;;2024-04-22;Entering,Quality,Assembly;filled in through import
-50005;Black & Decker;Hammer,Nut;;No;2024-04-22;Entering,Quality,Assembly;filled in through import
-50006;Bosch;Hammer,Nut;;No;;;
