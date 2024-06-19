@@ -1,4 +1,0 @@
-CSV_NAME,CSV_DATE,CSV_FLAG,CSV_CHOICELIST,CSV_CHOICELIST_MULTI
-CLARK FORKLIFT 001,2019-01-10,Yes,item 1,"multi 2,multi 3,multi 5,multi 7,multi 9"
-CLARK FORKLIFT 002,2019-02-10,YES,item 2,"multi 1,multi 3,multi 5,multi 7,multi 9"
-823001,CLARK FORKLIFT 001,2019-01-10,Yes,item 1,"multi 1,multi 3,multi 5,multi 7,multi 9"
