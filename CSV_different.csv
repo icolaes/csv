@@ -1,8 +1,0 @@
-CSV_ID,CSV_NAME,CSV_DATE,CSV_FLAG,CSV_CHOICELIST,CSV_CHOICELIST_MULTI
-231001,CLARK FORKLIFT 0110 - none existing multi,2019-01-10,Yes,item 1,"multi 11"
-231002,CLARK FORKLIFT 0120 - flagged True,2019-02-10,True,item 2,"multi 2"
-231003,CLARK FORKLIFT 0130 - flagged true,2019-03-10,true,item 3,"multi 3"
-231004,CLARK FORKLIFT 0140 - flagged False,2019-03-10,flase,item 4,"multi 4"
-231005,CLARK FORKLIFT 0150 - flagged false,2019-03-10,flase,item 5,"multi 5"
-231006,CLARK FORKLIFT 0160 - non existing choice,2019-03-10,flase,item 100,"multi 100"
-
