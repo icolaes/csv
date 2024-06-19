@@ -1,3 +1,4 @@
 STOCK_ID,STOCK_BRAND,STOCK_TYPE,STOCK_QUANTITY,STOCK_AVAILABLE,STOCK_UPDATE_DATE,STOCK_USED_IN,STOCK_COMMENT
 60000,Black & Decker,"Hammer,Bolt,Drill",200,Yes,2024-06-19,"Quality,Assembly","Update comment field"
 60001,Bosch,"Nut",400,Yes,2024-06-19,"Quality,Assembly","Updated through CSV integration"
+60002,Bosch,"Nut",400,Yes,2024-06-19,"Quality,Assembly","New added through CSV integration"
