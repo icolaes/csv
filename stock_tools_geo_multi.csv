@@ -4,3 +4,4 @@ STOCK_ID,STOCK_BRAND,STOCK_TYPE,STOCK_QUANTITY,STOCK_AVAILABLE,STOCK_UPDATE_DATE
 77002,Bosch,"Nut",10,No,2024-07-03,"Quality,Assembly"
 77701,Bosch,"Nut",0,No,2024-07-03,"Quality,Assembly","Test CSV multi"
 77702,Bosch,"Nut",0,No,2024-07-03,"Storage,Entering,Assembly","Test CSV multi"
+77703,Bosch,"Nut",0,No,2024-07-08,"Storage,Entering,Assembly","Test CSV multi"
