@@ -1,0 +1,6 @@
+MOTO_ID,MOTO_BRAND,MOTO_SPECIALS,MOTO_QUANTITY,MOTO_IN_STOCK,MOTO_IMPORT_DATE,MOTO_FENCE_1,MOTO_COMMENT
+88000,BMW,"3-wheels,cover",200,Yes,2024-07-08,"Quality","Comment field"
+88001,Harley Davidson,"sidebag",1000,Yes,,"Entering","Comment field"
+88002,Honda,"sidebag,cover,3-wheels",123,No,2024-07-08,"Assembly","Comment field"
+88003,Honda,"sidebag,cover,3-wheels",123,No,2024-07-08,"Assembly","Comment field"
+88004,Ducati,"sidebag,cover,3-wheels",123,No,2024-07-08,"Assembly","Comment field"
