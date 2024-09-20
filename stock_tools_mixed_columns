@@ -1,4 +1,4 @@
 STOCK_BRAND,STOCK_TYPE,STOCK_ID,STOCK_AVAILABLE,STOCK_UPDATE_DATE,STOCK_USED_IN,STOCK_COMMENT,STOCK_QUANTITY
-Stanley,"Saw",60010,Yes,2024-06-19,"Entering",Strange characters &é@ó$µ]ûçà,500
-Stanley,"Saw",60011,Yes,2024-06-19,"Entering",  Tab before,500
-Stanley,"Saw",60012,Yes,2024-06-19,"Entering",Caterpillar's forklifts,500
+Stanley,"Saw",25010,Yes,2024-06-19,"Entering",Strange characters &é@ó$µ]ûçà,500
+Stanley,"Saw",25011,Yes,2024-06-19,"Entering",  Tab before,500
+Stanley,"Saw",25012,Yes,2024-06-19,"Entering",Caterpillar's forklifts,500
