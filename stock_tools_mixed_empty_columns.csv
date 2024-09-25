@@ -1,0 +1,8 @@
+STOCK_BRAND,STOCK_TYPE,STOCK_ID,STOCK_AVAILABLE,STOCK_UPDATE_DATE,STOCK_USED_IN,STOCK_COMMENT,STOCK_QUANTITY
+Stanley,"Saw",252510,Yes,,"Entering,Storage",no date,500
+Stanley,"Saw",252511,Yes,2024-09-25,"Entering,Storage",,500
+Bosch,"Saw",252512,Yes,2024-06-19,"Entering,Storage",no quantity
+Bosch,"Saw",252513,Yes,2024-06-19,,no geofences,500
+Bosch,"Saw",252514,,2024-09-25,"Entering,Storage",no flag so should be no
+,"Saw",252515,,2024-09-25,"Entering,Storage",no brand,500
+Bosch,,252516,,2024-09-25,"Entering,Storage",no type,500
