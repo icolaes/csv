@@ -1,0 +1,6 @@
+MOTO_ID,MOTO_BRAND,MOTO_SPECIALS,MOTO_QUANTITY,MOTO_IN_STOCK,MOTO_IMPORT_DATE,MOTO_FENCE_1,MOTO_COMMENT
+99000,BMW,"3-wheels,cover",200,,2025-01-08,"Quality","empty flag"
+99001,Harley Davidson,"sidebag",1000,Yes,,"Entering","flag set yes"
+99002,Honda,"sidebag,cover,3-wheels",123,No,2025-01-08,"Assembly","flag set no"
+99003,Honda,"sidebag,cover,3-wheels",123,,2025-01-08,"Assembly","empty flag"
+99004,Ducati,"sidebag,cover,3-wheels",123,No,2025-01-08,"Assembly,Quality","more than 1 value in geofence single"
