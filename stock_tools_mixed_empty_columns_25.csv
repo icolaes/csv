@@ -1,8 +1,8 @@
 STOCK_BRAND,STOCK_TYPE,STOCK_ID,STOCK_AVAILABLE,STOCK_UPDATE_DATE,STOCK_USED_IN,STOCK_COMMENT,STOCK_QUANTITY
 Stanley,"Saw",262610,Yes,,"Entering,Storage",no date,500
-Stanley,"Saw",262611,Yes,2024-09-25,"Entering,Storage",,500
-Bosch,"Saw",262612,Yes,2024-09-25,"Entering,Storage",no quantity
-Bosch,"Saw",262613,Yes,2024-09-25,,no geofences,500
-Bosch,"Saw",262614,,2024-09-25,"Entering,Storage",no flag so should be no
-,"Saw",262615,,2024-09-25,"Entering,Storage",no brand,500
-Bosch,,262616,,2024-09-25,"Entering,Storage",no type,500
+Stanley,"Saw",262611,Yes,2025-02-10,"Entering,Storage",,500
+Bosch,"Saw",262612,Yes,2025-02-10,"Entering,Storage",no quantity
+Bosch,"Saw",262613,Yes,2025-02-10,,no geofences,500
+Bosch,"Saw",262614,,2025-02-10,"Entering,Storage",no flag so should be no
+,"Saw",262615,,2025-02-10,"Entering,Storage",no brand,500
+Bosch,,262616,,2025-02-10,"Entering,Storage",no type,500
