@@ -1,8 +1,8 @@
 STOCK_ID,STOCK_BRAND,STOCK_TYPE,STOCK_QUANTITY,STOCK_AVAILABLE,STOCK_UPDATE_DATE,STOCK_USED_IN,STOCK_COMMENT
-316000,Black & Decker,"Hammer,Bolt,Drill",200,Yes,2025-05-05,"Quality,Assembly","Update comment field"
-3166001,Bosch,"Nut",200,Yes,,"Entering",
-3166002,Bosch,"Nut",10,No,2025-05-05,"Quality,Assembly"
-3166701,Bosch,"Nut",0,No,2025-05-05,"Quality,Assembly","Test CSV multi"
-3166702,Bosch,"Nut",0,No,2025-05-05,"Storage,Entering,Assembly","Test CSV multi"
-3166703,Bosch,"Nut",0,No,2025-05-05,"Storage,Entering,Assembly","Test CSV multi"
-3166800,Bosch,"Nut",0,No,2025-05-05,"Storage,Entering,Assembly","Test CSV multi"
+316000,Black & Decker,"Hammer,Bolt,Drill",200,Yes,2025-05-05,"stock_001,stock_002","Update comment field"
+3166001,Bosch,"Nut,Bolt",200,Yes,,"Assembly",
+3166002,DeWalt,"Drill",10,No,2025-05-05,"Quality,Assembly"
+3166701,Stanley,"Nut, Jack",0,No,2025-05-05,"Quality,Assembly","Test CSV multi"
+3166702,Hilti,"Saw,Screwdriver,Screws",0,No,2025-05-05,"stock_001,stock_002","Test CSV multi"
+3166703,Makita,"Nut",0,No,2025-05-05,"stock_001,stock_002","Test CSV multi"
+3166800,Ryobi,"Nut",0,No,2025-05-05,"stock_001,stock_002","Test CSV multi"
